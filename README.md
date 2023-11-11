@@ -21,7 +21,7 @@ Written by [Paul Hudson](https://www.hackingwithswift.com/about)  ![twitter16](h
 - Wrap up
 
   
-## [Review what you learned](https://www.hackingwithswift.com/review/hws/project-23-detect-a-beacon)
+## [Review what you learned](https://www.hackingwithswift.com/review/hws/project-23-swifty-ninja)
 
 **Challenge**
 
