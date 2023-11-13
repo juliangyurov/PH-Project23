@@ -422,5 +422,12 @@ class GameScene: SKScene {
             livesImages[1].texture = SKTexture(imageNamed: "sliceLifeGone")
             livesImages[2].texture = SKTexture(imageNamed: "sliceLifeGone")
         }
+        
+        let gameOverNode = SKSpriteNode(imageNamed: "gameOver")
+        
+        gameOverNode.position = CGPoint(x: 512, y: 384)
+        gameOverNode.blendMode = .replace
+        gameOverNode.zPosition = 4
+        addChild(gameOverNode)
     }
 }
